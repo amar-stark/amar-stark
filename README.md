@@ -10,7 +10,7 @@
 <h3> My Experience</h3>
 
 
-<img width="100%" src="./images/img.png">
+<img width="100%" src="./images/MyExp.png">
 
 
 <hr>
